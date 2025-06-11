@@ -13,11 +13,13 @@ The system consists of three main components:
 ## Visuals
 
 ### Interface Image
-![image](https://github.com/user-attachments/assets/b7807df8-7a22-4a14-b04e-db381ee217d2)
+![image](https://github.com/user-attachments/assets/76c9582a-e2e1-47ce-8abf-77b0868832f7)
+
 
 
 ### Device Image
-![image](https://github.com/user-attachments/assets/6691689e-d091-43c1-a58b-73e041c0b561)
+![image](https://github.com/user-attachments/assets/fc04ca9f-d922-47c6-9e9f-e91a62d0ea55)
+
 
 
 ## Code Description
