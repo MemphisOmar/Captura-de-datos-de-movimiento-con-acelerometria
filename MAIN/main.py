@@ -11,8 +11,8 @@ import socket
 
 # --- Configuración de Wi-Fi ---
 # ¡IMPORTANTE! Reemplaza con los datos de tu red compartida por la PC
-SSID = 'Aaaaaa' # Tu SSID de la red compartida (Ej. 'MiHotspot')
-PASSWORD = '31151290' # Tu Contraseña de la red compartida
+SSID = 'NAME_SSID' # Tu SSID de la red compartida (Ej. 'MiHotspot')
+PASSWORD = 'PASSWORD_NETWORK' # Tu Contraseña de la red compartida
 PORT = 8080 # Puerto TCP para la comunicación, debe ser el mismo en el cliente de PC
 
 # Inicializar el objeto MPU6050.
