@@ -19,6 +19,9 @@ The system consists of three main components:
 
 ### Device Image
 ![image](https://github.com/user-attachments/assets/fc04ca9f-d922-47c6-9e9f-e91a62d0ea55)
+![image](https://github.com/user-attachments/assets/1e38c55f-c0a8-4878-bc47-73a472360f66)
+
+
 
 
 
